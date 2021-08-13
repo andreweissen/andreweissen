@@ -3,4 +3,4 @@
 * 🏆 95th percentile in [LinkedIn's skill assessments](https://www.linkedin.com/help/linkedin/answer/94427/linkedin-skill-assessments?lang=en) for JavaScript, Python, C, and JSON
 * 👨🏻‍🎓 [B.S.](https://en.wikipedia.org/wiki/Bachelor_of_Science) in [Computer Science](https://en.wikipedia.org/wiki/Computer_science) ([*Summa cum laude*](https://en.wikipedia.org/wiki/Latin_honors#Distinctions), [Dean's List](https://en.wikipedia.org/wiki/Dean%27s_list) all semesters)
 * 🎓 [B.A.](https://en.wikipedia.org/wiki/Bachelor_of_Arts) in [Communications](https://en.wikipedia.org/wiki/Communication_studies) (Honors in Communications, Dean's List with Distinction)
-* 📫 [Email me](mailto:andrew@andreweissen.com), connect on [LinkedIn](https://linkedin.com/in/andreweissen), or view [my Fandom Developers Wiki profile](https://dev.fandom.com/eizen)
+* 💬 Connect with me on [LinkedIn](https://linkedin.com/in/andreweissen) or visit [my Fandom Developers Wiki profile](https://dev.fandom.com/eizen)
