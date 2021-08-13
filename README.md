@@ -1,5 +1,5 @@
-- 👋 @andreweissen
-- 💻 dev.fandom.com/eizen
+- 👋 [@andreweissen](https://github.com/andreweissen)
+- 💻 [dev.fandom.com/eizen](https://dev.fandom.com/eizen)
 - 📫 andrew@andreweissen.com
 - 🎓 B.S. in Computer Science (*summa cum laude*), B.A. in Communication Studies
 - 💬 Specialization in automation scripting with JavaScript and Python
